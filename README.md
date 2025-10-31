@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RockyAo
-- 🌱 I’m currently learning Java and Web
+- 🌱 I’m currently working on iOS, Android, HarmonyOS
 - 📫 Reach me 542622608@qq.com
 
 <!---
